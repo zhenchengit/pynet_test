@@ -1,2 +1,2 @@
 print ("zhen")
-printafda ("github test")
+print("github test")
